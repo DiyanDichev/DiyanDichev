@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on L2Capitol Game Server.
+- 🌱 I’m currently learning Java in SoftUni.
+- 📫 How to reach me: You Cannot right now
+- ⚡ Fun fact: Im a truck driver who like to write PC Game servers logic on Java,HTML,JS and SQL.
 <!--
 **DiyanDichev/DiyanDichev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
