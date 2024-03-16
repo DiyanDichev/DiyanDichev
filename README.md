@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
+https://www.pinterest.com/pin/1058275612411548872/
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiyanDichev&show_icons=true&theme=darcula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyanDichev&layout=donut)](https://github.com/DiyanDichev/github-readme-stats)
