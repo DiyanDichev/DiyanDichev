@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 | Course        | GitHub repository | Grade | Issue date | Certificate |
 | ------------- | ----------------- | ----- | ---------- | ----------- |
-| Java OOP course | [Repository](https://github.com/DiyanDichev/Github-Homework/tree/main/Java%20OOP) | 0.00 | February 2024 | Java OOP certificate |
-| Java Advanced course | [Repository](https://github.com/DiyanDichev/Github-Homework/tree/main/Java%20Advanced) | 6.00 | January 2024 | [Java Advanced certificate](https://softuni.bg/certificates/details/203479/1d445e7c) |
-| Java Fundamentals course | [Repository](https://github.com/DiyanDichev/Github-Homework/tree/main/Java%20Fundamentals) | 6.00 | September 2023 | [Java Fundamentals certificate](https://softuni.bg/certificates/details/195148/a8a78651) |
-| Java Basics course | [Repository](https://github.com/DiyanDichev/Github-Homework/tree/main/Java%20Basics) | 6.00 | June 2023 | [Java Basics certificate](https://softuni.bg/certificates/details/178223/dbacb325) |
+| Java OOP | [Repository](https://github.com/DiyanDichev/Github-Homework/tree/main/Java%20OOP) | 0.00 | February 2024 | Java OOP certificate |
+| Java Advanced | [Repository](https://github.com/DiyanDichev/Github-Homework/tree/main/Java%20Advanced) | 6.00 | January 2024 | [Java Advanced certificate](https://softuni.bg/certificates/details/203479/1d445e7c) |
+| Java Fundamentals | [Repository](https://github.com/DiyanDichev/Github-Homework/tree/main/Java%20Fundamentals) | 6.00 | September 2023 | [Java Fundamentals certificate](https://softuni.bg/certificates/details/195148/a8a78651) |
+| Java Basics | [Repository](https://github.com/DiyanDichev/Github-Homework/tree/main/Java%20Basics) | 6.00 | June 2023 | [Java Basics certificate](https://softuni.bg/certificates/details/178223/dbacb325) |
 
 
 
