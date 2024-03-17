@@ -69,5 +69,5 @@ Here are some ideas to get you started:
 ###
 
 
-  <h2 align="center">*There is no sin except stupidity.*</h2><br>
+  <align="center">*There is no sin except stupidity.*</><br>
               *Oscar Wilde 1854-1900*
