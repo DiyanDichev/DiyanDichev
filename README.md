@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
 
-### Certificates 
+### Certificates
 
 | Course        | GitHub repository | Grade | Issue date | Certificate |
 | ------------- | ----------------- | ----- | ---------- | ----------- |
