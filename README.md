@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Diyan Dichev</h1>
-<h4 align="center">Six years ago i join the world of programming after turned on my first gaming server for one of the biggest projects Lineage 2 by NcSoft as a hobby.The hobby become a passion,the passion become a need to learn more and more... </h4>
+<h6 align="center">Six years ago i join the world of programming after turned on my first gaming server for one of the biggest projects Lineage 2 by NcSoft as a hobby.The hobby become a passion,the passion become a need to learn more and more... </h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyandichev&label=Profile%20views&color=0e75b6&style=flat" alt="diyandichev" /> </p>
 
 
