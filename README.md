@@ -76,7 +76,10 @@ Here are some ideas to get you started:
              alt="googleDrive" width="40" height="40"/></a>
        <a href="https://www.mediafire.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/mediafire-1.svg" 
-             alt="mediaFire" width="40" height="40"/></a></p>
+             alt="mediaFire" width="40" height="40"/></a>
+               <a href="https://www.hostinger.com/?irclickid=TojR2lXmbxyPRiU0Fm3oG3FEUkHyf1T1S3k80g0&irgwc=1&PID=3646776" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" 
+             alt="hostinger" width="40" height="40"/></a></p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=diyandichev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diyandichev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
