@@ -68,9 +68,15 @@ Here are some ideas to get you started:
         <a href="https://filezilla-project.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/filezilla-logo.svg" 
              alt="fileZilla" width="40" height="40"/>
-         <a href="https://filezilla-project.org/" target="_blank" rel="noreferrer">
+         <a href="https://mega.nz/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/mega-icon.svg" 
-             alt="fileZilla" width="40" height="40"/></a></p>
+             alt="megaNz" width="40" height="40"/></a>
+         <a href="https://mega.nz/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/mega-icon.svg" 
+             alt="megaNz" width="40" height="40"/></a>
+       <a href="https://www.mediafire.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/mediafire-1.svg" 
+             alt="mediaFire" width="40" height="40"/></a></p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=diyandichev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diyandichev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
