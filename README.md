@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyanDichev&layout=donut)](https://github.com/DiyanDichev/github-readme-stats)
 -->
 <html noscrollbar>
-<title>Community Board</title>
 <body><br>
 <table width=755>
 <tr>
