@@ -1,8 +1,9 @@
-### Hi there 👋
+<!--### Hi there 👋
 - 🔭 I’m currently working on L2Capitol Game Server.
 - 🌱 I’m currently learning Java in SoftUni.
 - 📫 How to reach me: You Cannot right now
 - ⚡ Fun fact: Im a truck driver who like to write PC Game servers logic on Java,HTML,JS and SQL.
+-->
 <!--
 **DiyanDichev/DiyanDichev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +20,14 @@ Here are some ideas to get you started:
 -->
 
 
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiyanDichev&show_icons=true&theme=darcula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyanDichev&layout=donut)](https://github.com/DiyanDichev/github-readme-stats)
+-->
+
+<html><title>Clan Announcements</title>
+<body><br>
+<center><font color="CCAA00">%clan_name%</font> <font color="6655FF">Clan Alert Message</font></center><br>
+<img src="L2UI.SquareWhite" width=270 height=1><br>
+%notice_text%
+</body></html>
