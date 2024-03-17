@@ -35,7 +35,6 @@ Here are some ideas to get you started:
   <a href="https://discord.gg/https://discord.gg/3QsbvM2h" target="blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="giyandichev90@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/diqn-dichev-98b2332ba/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  <a href="https://fb.com/diqn.dichev.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diqn.dichev.5" height="30" width="40" />
 
 
 - 🔭 I’m currently working on [L2Capitol Game Server.](https://www.L2Capitol.com)
