@@ -67,3 +67,7 @@ Here are some ideas to get you started:
 
 
 ###
+
+
+There is no sin except stupidity.
+Oscar Wilde 1854-1900
