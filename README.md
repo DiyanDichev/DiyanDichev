@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyanDichev&layout=donut)](https://github.com/DiyanDichev/github-readme-stats)
 -->
 <html>
-
+	<title>Community Board</title>	<body>
 	    <table border=0 cellpadding=0 cellspacing=0 height=510 width=256 ><tr><td valign="top" align="center"><br>
 		<center><br>
 			<table width=616 bgcolor=171717>
@@ -128,4 +128,5 @@ Kamaloka instance NPC can be found in Giran,npc name Lilith.
 		<br>
 		<img src="L2UI.SquareGray" width=768 height=2>
 		
+	</td></tr></table></body>
 </html>
