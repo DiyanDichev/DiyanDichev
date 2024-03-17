@@ -57,6 +57,9 @@ Here are some ideas to get you started:
         <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" 
              alt="intelliJ" width="40" height="40"/> </a> 
+          <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" 
+             alt="intelliJ" width="40" height="40"/> </a> 
       <a href="https://www.jetbrains.com/help/idea/maven-support.html" target="_blank" rel="noreferrer">
           <img src="https://www.jrebel.com/sites/default/files/image/2020-07/image-blog-what-is-maven.jpg" 
                alt="intelliJ" width="40" height="40"/> </a>
