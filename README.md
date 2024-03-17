@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/diqn-dichev-98b2332ba" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for the-badge" alt="in/diqn-dichev-98b2332ba" height="35" /></a>
+<a href="https://www.linkedin.com/in/diqn-dichev-98b2332ba/" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for the-badge" alt="in/diqn-dichev-98b2332ba" height="35" /></a>
 
 
   
