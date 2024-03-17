@@ -50,25 +50,24 @@ Here are some ideas to get you started:
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" 
              alt="photoshop" width="40" height="40"/> </a> 
       <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" 
              alt="intelliJ" width="40" height="40"/> </a> 
-        <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+        <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" 
-             alt="intelliJ" width="40" height="40"/> </a> 
-      <a href="https://www.jetbrains.com/help/idea/maven-support.html" target="_blank" rel="noreferrer">
+             alt="eclipse" width="40" height="40"/> </a> 
+      <a href="[https://www.jetbrains.com/help/idea/maven-support.html](https://maven.apache.org/)" target="_blank" rel="noreferrer">
           <img src="https://www.jrebel.com/sites/default/files/image/2020-07/image-blog-what-is-maven.jpg" 
-               alt="intelliJ" width="40" height="40"/> </a>
-        <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+               alt="maven" width="40" height="40"/> </a>
+        <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/unreal-engine-1.svg" 
-             alt="intelliJ" width="40" height="40"/> </a>
-        <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+             alt="unrealEngine" width="40" height="40"/> </a>
+        <a href="https://filezilla-project.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/filezilla-logo.svg" 
-             alt="intelliJ" width="40" height="40"/> </a></p>
+             alt="fileZilla" width="40" height="40"/> </a></p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=diyandichev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diyandichev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
