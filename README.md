@@ -37,9 +37,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/diqn-dichev-98b2332ba/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 
 
-- 🔭 I’m currently working on [L2Capitol Game Server.](https://www.L2Capitol.com)
+- 🔭 I’m currently working on: [L2Capitol Game Server.](https://www.L2Capitol.com)
 
-- 🌱 I’m currently learning *Java in SoftUni.*
+- 🌱 I’m currently learning: *Java in SoftUni.*
 
 - 📫 How to reach me: *Use the social media buttons*
 
