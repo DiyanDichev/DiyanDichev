@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 | [Java OOP course](https://softuni.bg/trainings/4375/java-oop-february-2024) | [Link](https://github.com/Dimitar-Peev/04.Java-OOP-February-2024) | 0.00 | February 2024 | [Java OOP certificate]() |
 | [Java Advanced course](https://softuni.bg/trainings/4374/java-advanced-january-2024) | [Link](https://github.com/Dimitar-Peev/03.Java-Advanced-January-2024) | 6.00 | January 2024 | [Java Advanced certificate](https://softuni.bg/certificates/details/182553/ca9a0a1d) |
 | [Java Fundamentals course](https://softuni.bg/trainings/4220/programming-fundamentals-with-java-september-2023) | [Link](https://github.com/Dimitar-Peev/02.PF-Java-September-2023) | 6.00 | September 2023 | [Java Fundamentals certificate](https://softuni.bg/certificates/details/195140/4b98aaf6) |
-| [Java Basics course](https://softuni.bg/trainings/4160/programming-basics-with-java-july-2023) | [Link](https://github.com/Dimitar-Peev/01.PB-Java-July-2023) | 6.00 | July 2023 | [Java Basics certificate](https://softuni.bg/certificates/details/182553/ca9a0a1d) |
+| [Java Basics course](https://softuni.bg/trainings/4160/programming-basics-with-java-july-2023) | [Link](https://github.com/DiyanDichev/Github-Homework/tree/main/Java%20Basics) | 6.00 | July 2023 | [Java Basics certificate](https://softuni.bg/certificates/details/182553/ca9a0a1d) |
 
 
 ###
