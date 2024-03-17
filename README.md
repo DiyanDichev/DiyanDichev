@@ -71,9 +71,9 @@ Here are some ideas to get you started:
          <a href="https://mega.nz/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/mega-icon.svg" 
              alt="megaNz" width="40" height="40"/></a>
-         <a href="https://mega.nz/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/mega-icon.svg" 
-             alt="megaNz" width="40" height="40"/></a>
+         <a href="https://www.google.com/drive/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/google-drive.svg" 
+             alt="googleDrive" width="40" height="40"/></a>
        <a href="https://www.mediafire.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/mediafire-1.svg" 
              alt="mediaFire" width="40" height="40"/></a></p>
