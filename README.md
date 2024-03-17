@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyanDichev&layout=donut)](https://github.com/DiyanDichev/github-readme-stats)
 -->
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<!--<h3 align="center">A passionate frontend developer from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyandichev&label=Profile%20views&color=0e75b6&style=flat" alt="diyandichev" /> </p>
 
