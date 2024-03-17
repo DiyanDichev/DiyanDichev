@@ -52,9 +52,6 @@ Here are some ideas to get you started:
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
       <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos//adobe-photoshop-2.svg" 
-             alt="intelliJ" width="40" height="40"/> </a> 
-      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" 
              alt="intelliJ" width="40" height="40"/> </a> 
         <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
