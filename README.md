@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyanDichev&layout=donut)](https://github.com/DiyanDichev/github-readme-stats)
 -->
 <html noscrollbar>
+<title>Community Board</title>
 <body><br>
 <table width=755>
 <tr>
@@ -57,165 +58,21 @@ Here are some ideas to get you started:
 								<table width=350 height=42>
 									<tr>
 										<td width=350 align=center valign=center>
-											<table width=241 height=39>
-												<tr>
-													<td width=40 align=right valign=top>
-														<table cellspacing=0 cellpadding=0 width=32 height=32 background=icon.etc_musical_note_i02>
-															<tr>
-																<td width=32 height=32 align=center valign=top>
-																	<img src=icon.panel_2 width=32 height=32>
-																</td>
-															</tr>
-														</table>
-													</td>
-													<td width=350 valign=center>
-														<font color=FF6600>Rename services</font>
-															<br1>
-														<font color=669900>Cost:</font> 5/10 Donation Paunds
-													</td>
-													<td width=47 valign=center align=center>
-														<button value=OPEN action="bypass -h scripts_services.Rename:rename_page" width=75 height=32 back=L2UI_CT1.ListCTRL_DF_Title_Down fore=L2UI_CT1.ListCTRL_DF_Title />
-													</td>
-												</tr>
-											</table>
+
 										</td>
 									</tr>
 								</table>
 								<table width=350 height=42 bgcolor=111111>
 									<tr>
 										<td width=350 align=center valign=center>
-											<table width=241 height=39>
-												<tr>
-													<td width=40 align=right valign=top>
-														<table cellspacing=0 cellpadding=0 width=32 height=32 background=icon.skill1323>
-															<tr>
-																<td width=32 height=32 align=center valign=top>
-																	<img src=icon.panel_2 width=32 height=32>
-																</td>
-															</tr>
-														</table>
-													</td>
-													<td width=350 valign=center>
-														<font color=FF6600>Nobless</font>
-															<br1>
-														<font color=669900>Cost:</font> 10 Donation Paunds
-													</td>
-													<td width=47 valign=center align=center>
-														<button value=BUY action="bypass -h scripts_services.NoblessSell:get" width=75 height=32 back=L2UI_CT1.ListCTRL_DF_Title_Down fore=L2UI_CT1.ListCTRL_DF_Title />
-													</td>
-												</tr>
-											</table>
+
 										</td>
 									</tr>
 								</table>
-<table width=350 height=42 bgcolor=111111>
-<tr>
-<td width=350 align=center valign=center>
-<table width=241 height=39>
-<tr>
-<td width=40 align=right valign=top>
-<table cellspacing=0 cellpadding=0 width=32 height=32 background=Uniform_As.qipao_armor_c_u_i00>
-<tr>
-<td width=32 height=32 align=center valign=top>
-<img src=icon.panel_2 width=32 height=32>
-</td>
-</tr>
-</table>
-</td>
-<td width=350 valign=center>
-<font color=FF6600>Dress Me</font>
-<br1>
-<font color=669900>Cost:</font> 10-20 Donation Paunds
-</td>
-<td width=47 valign=center align=center>
-<button value=BUY action="bypass -h user_dressme" width=75 height=32 back=L2UI_CT1.ListCTRL_DF_Title_Down fore=L2UI_CT1.ListCTRL_DF_Title>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-<table width=350 height=42 bgcolor=111111>
-<tr>
-<td width=350 align=center valign=center>
-<table width=241 height=39>
-<tr>
-<td width=40 align=right valign=top>
-<table cellspacing=0 cellpadding=0 width=32 height=32 background=icon.accessory_pledge_hair1_i00>
-<tr>
-<td width=32 height=32 align=center valign=top>
-<img src=icon.panel_2 width=32 height=32>
-</td>
-</tr>
-</table>
-</td>
-<td width=350 valign=center>
-<font color=FF6600>Accessories</font>
-<br1>
-<font color=669900>Cost:</font> 3-20 Donation Paunds
-</td>
-<td width=47 valign=center align=center>
-<button value=BUY action="bypass -h scripts_Util:CommunityMultisell 1" width=75 height=32 back=L2UI_CT1.ListCTRL_DF_Title_Down fore=L2UI_CT1.ListCTRL_DF_Title>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-<table width=350 height=42 bgcolor=111111>
-<tr>
-<td width=350 align=center valign=center>
-<table width=241 height=39>
-<tr>
-<td width=40 align=right valign=top>
-<table cellspacing=0 cellpadding=0 width=32 height=32 background=icon.skill3123>
-<tr>
-<td width=32 height=32 align=center valign=top>
-<img src=icon.panel_2 width=32 height=32>
-</td>
-</tr>
-</table>
-</td>
-<td width=350 valign=center>
-<font color=FF6600>Augumenting Item.</font>
-<br1>
-<font color=669900>Cost:</font> Grade A or above.
-</td>
-<td width=47 valign=center align=center>
-<button value=BUY action="bypass -h scripts_services.Augmentation:run menu" width=75 height=32 back=L2UI_CT1.ListCTRL_DF_Title_Down fore=L2UI_CT1.ListCTRL_DF_Title>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-<table width=350 height=42 bgcolor=111111>
-<tr>
-<td width=350 align=center valign=center>
-<table width=241 height=39>
-<tr>
-<td width=40 align=right valign=top>
-<table cellspacing=0 cellpadding=0 width=32 height=32 background=icon.etc_fire_crystal_i00>
-<tr>
-<td width=32 height=32 align=center valign=top>
-<img src=icon.panel_2 width=32 height=32>
-</td>
-</tr>
-</table>
-</td>
-<td width=350 valign=center>
-<font color=FF6600>Equip Attribution.</font>
-<br1>
-<font color=669900>Cost:</font> Grade S or above.
-</td>
-<td width=47 valign=center align=center>
-<button value=BUY action="bypass _bbsforge:attribute:list" width=75 height=32 back=L2UI_CT1.ListCTRL_DF_Title_Down fore=L2UI_CT1.ListCTRL_DF_Title>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
+
+
+
+
 </td>
 </tr>
 </table>
