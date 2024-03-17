@@ -61,12 +61,6 @@ Here are some ideas to get you started:
 | Java Basics course | [Repository](https://github.com/DiyanDichev/Github-Homework/tree/main/Java%20Basics) | 6.00 | June 2023 | [Java Basics certificate](https://softuni.bg/certificates/details/178223/dbacb325) |
 
 
-###
-
-<br clear="both">
-
-
-###
 
 
 *There is no sin except stupidity*.<br>
