@@ -128,5 +128,5 @@ Kamaloka instance NPC can be found in Giran,npc name Lilith.
 		<br>
 		<img src="L2UI.SquareGray" width=768 height=2>
 		
-	</body>
+
 </html>
