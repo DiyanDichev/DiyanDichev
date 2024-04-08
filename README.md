@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiyanDichev&show_icons=true&theme=darcula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyanDichev&layout=donut)](https://github.com/DiyanDichev/github-readme-stats)
 -->
-
+    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:alidzhansadak04@gmail.com)
 
 <h1 align="center">Hi 👋, I'm Diyan Dichev</h1>
 <h6 align="center">Six years ago i join the world of programming after turned on my first gaming server on one of the biggest projects Lineage 2 by NcSoft as a hobby.The hobby become a passion,the passion become a need to learn more and more... </h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyandichev&label=Profile%20views&color=0e75b6&style=flat" alt="diyandichev" /> </p>
 
-    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:alidzhansadak04@gmail.com)
+
 <div align="left">
   <a href="https://discord.gg/https://discord.gg/3QsbvM2h" target="blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="diyandichev90@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
