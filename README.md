@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiyanDichev&show_icons=true&theme=darcula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyanDichev&layout=donut)](https://github.com/DiyanDichev/github-readme-stats)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:alidzhansadak04@gmail.com)
 -->
-    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:alidzhansadak04@gmail.com)
+
 
 <h1 align="center">Hi 👋, I'm Diyan Dichev</h1>
 <h6 align="center">Six years ago i join the world of programming after turned on my first gaming server on one of the biggest projects Lineage 2 by NcSoft as a hobby.The hobby become a passion,the passion become a need to learn more and more... </h6>
