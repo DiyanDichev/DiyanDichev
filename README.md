@@ -92,6 +92,7 @@ Here are some ideas to get you started:
 
 | Course        | GitHub repository | Grade | Issue date | Certificate |
 | ------------- | ----------------- | ----- | ---------- | ----------- |
+| JavaScript | [Repository](https://github.com/DiyanDichev/Github-Homework/tree/main/JavaScript) | 6.00 | February 2024 | [JavaScript certificate](https://softuni.bg/certificates/details/211135/24496ddd) |
 | HTML/CSS | [Repository]() | 6.00 | February 2024 | [HTML/CSS certificate](https://softuni.bg/Certificates/Details/218530/0d83872b) |
 | Java OOP | [Repository](https://github.com/DiyanDichev/Github-Homework/tree/main/Java%20OOP) | 6.00 | February 2024 | [Java OOP certificate](https://softuni.bg/certificates/details/211135/24496ddd) |
 | Java Advanced | [Repository](https://github.com/DiyanDichev/Github-Homework/tree/main/Java%20Advanced) | 6.00 | January 2024 | [Java Advanced certificate](https://softuni.bg/certificates/details/203479/1d445e7c) |
